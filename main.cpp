@@ -8,6 +8,8 @@ using namespace std;
 
 
 int main(){
+        
 
-        menu();
+        Welcome();
+        menu();       
 }
